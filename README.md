@@ -81,7 +81,7 @@ I’ve earned several certificates in cybersecurity and technology from respecte
 - [**GitHub Portfolio**](https://github.com/TheRealRafael00/TheRealRafael00/blob/main/README.md)  
 - [**Credly Badges**](https://www.credly.com/users/rafael-putra-hermawan)
 
-- [**Email**][privacyisdignity@gmail.com](mailto: privacyisdignity@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-privacyisdignity@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:privacyisdignity@gmail.com)
 
 ---
 

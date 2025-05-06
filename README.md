@@ -82,7 +82,6 @@ I’ve earned several certificates in cybersecurity and technology from respecte
 - [**Credly Badges**](https://www.credly.com/users/rafael-putra-hermawan)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-privacyisdignity@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:privacyisdignity@gmail.com)
-
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@mumyzR-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mumyzR)
 
 ---

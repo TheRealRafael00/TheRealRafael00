@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Rafael! 👋</h1>
+<h1 align="center">Hey there, welcome to my portofolio! 👋</h1>
 <h3 align="center">A 15-year-old aspiring Cybersecurity Specialist from Indonesia</h3>
 
 <p align="center">
@@ -111,5 +111,5 @@ Tech stack: Python, Bash, Linux CLI
 
 ---
 <p align="center">⚠️ This portfolio is under continuous update as I grow and learn more!</p>
----
+
 

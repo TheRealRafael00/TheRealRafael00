@@ -16,7 +16,7 @@
 
 ## 🔍 About Me
 
-Hello! I’m Rafael, a passionate student who's fascinated by the digital world and cybersecurity.  
+Hello! I’m Raffael, a passionate student who's fascinated by the digital world and cybersecurity.  
 I’m currently a 9th grader at **SMP Negeri 26 Depok** and have been diving into ethical hacking, bug hunting, and penetration testing.  
 I'm building my knowledge one exploit at a time.
 

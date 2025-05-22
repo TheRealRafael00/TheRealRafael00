@@ -88,11 +88,10 @@ Tech stack: Python, Bash, Linux CLI
 
 📫 Contact Me
 
-Email: privacyisdignity@gmail.com
-
-TikTok: @if.no.username
-
-GitHub: TheRealRafael00
+- **✉️ Email:** [privacyisdignity@gmail.com](mailto:privacyisdignity@gmail.com)
+- **🎵 TikTok:** [@if.no.username](https://tiktok.com/@your_username)
+- **✈️ Telegram:** [@your_username](https://t.me/mumyzR)
+- **💻 GitHub:** [TheRealRafael00](https://github.com/TheRealRafael00)
 
 
 

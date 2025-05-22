@@ -88,9 +88,9 @@ Tech stack: Python, Bash, Linux CLI
 
 📫 Contact Me
 
-- **✉️ Email:** [privacyisdignity@gmail.com](mailto:privacyisdignity@gmail.com)
-- **🎵 TikTok:** [@if.no.username](https://tiktok.com/@your_username)
-- **✈️ Telegram:** [@your_username](https://t.me/mumyzR)
+- **✉️ Email:** [klik here](mailto:privacyisdignity@gmail.com)
+- **🎵 TikTok:** [@if.no.username](https://www.tiktok.com/@if.no.username?_t=ZS-8wYmEDyWF0b&_r=1)
+- **✈️ Telegram:** [@mumyzR](https://t.me/mumyzR)
 - **💻 GitHub:** [TheRealRafael00](https://github.com/TheRealRafael00)
 
 

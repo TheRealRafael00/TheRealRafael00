@@ -107,9 +107,9 @@ Tech stack: Python, Bash, Linux CLI
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRafael00&layout=compact&theme=tokyonight" />
 </p>
+
+
 ---
-
-
 <p align="center">⚠️ This portfolio is under continuous update as I grow and learn more!</p>
-
+---
 

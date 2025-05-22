@@ -2,7 +2,7 @@
 <h3 align="center">A 15-year-old aspiring Cybersecurity Specialist from Indonesia</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250" alt="Cyber Hacker Animation">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)" width="250" alt="Cyber Hacker Animation">
 </p>
 
 <p align="center">

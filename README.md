@@ -42,13 +42,26 @@ I'm building my knowledge one exploit at a time.
 
 ## 💡 Skills
 
-✅ Cyber Defense          ✅ Cryptography              ✅ Cybersecurity Assessment  
-✅ Ethical Hacking        ✅ Incident Response         ✅ Information Privacy  
-✅ IoT Security           ✅ Network Security          ✅ Operational Reporting  
-✅ Penetration Testing    ✅ Security Strategies       ✅ Social Engineering  
-✅ Threat Detection       ✅ Threat Assessment         ✅ Vulnerability Scanning  
-✅ Vulnerability Mgmt     ✅ Prompt Engineering        ✅ Kali Linux  
-✅ Encryption             ✅ Digital Marketing Basics
+✅ Cyber Defense          
+✅ Cryptography              
+✅ Cybersecurity Assessment  
+✅ Ethical Hacking        
+✅ Incident Response         
+✅ Information Privacy  
+✅ IoT Security           
+✅ Network Security          
+✅ Operational Reporting  
+✅ Penetration Testing    
+✅ Security Strategies       
+✅ Social Engineering  
+✅ Threat Detection       
+✅ Threat Assessment         
+✅ Vulnerability Scanning  
+✅ Vulnerability Mgmt     
+✅ Prompt Engineering        
+✅ Kali Linux  
+✅ Encryption             
+✅ Digital Marketing Basics
 
 
 ---
@@ -98,5 +111,7 @@ GitHub: TheRealRafael00
 </p>
 ---
 
+---
 <p align="center">⚠️ This portfolio is under continuous update as I grow and learn more!</p>
-```
+---
+
